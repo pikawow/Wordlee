@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Wordle clone project.
+
+## Spec
+
+MVP
+- 作為一個 game owner，會有一個五個英文字的答案
+- 作為一個 user，我可以看到畫面上有 5x6 個方格子
+- 作為一個 user，我可以用鍵盤輸入英文單字，可以刪除，不能輸入其他符號、數字
+- 作為一個 user，我可以在格子中看到我輸入的單字，一次最多五個英文字（一行）
+- 作為一個 user，當我輸入一個英文單字後，可以按下 enter 送出，會看到格子根據答案的比較，翻轉變成灰色（沒有中任何一個字）、黃色（字是對的位置不對）跟綠色（字跟位置都對）三種顏色
+- 作為一個 user，如果輸入的單字不正確，可以於下一行繼續輸入，最多輸入六次
+- 作為一個 user，如果輸入的單字正確，會跳出一個恭喜視窗
+
+
+Nice to have
+- 作為一個 user，如果輸入的單字正確，會跳出一個恭喜視窗，點擊上面的分享，可以複製這個結果，並以 emoji 呈現
+
 
 ## Getting Started
 
