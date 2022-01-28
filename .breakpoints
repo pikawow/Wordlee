@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "components/Game/GameTile.js": [
+      {
+        "id": "b120bfd7-8ed9-437d-930d-3b689d9d6c5b",
+        "line": 1,
+        "version": 48,
+        "index": 0
+      }
+    ]
+  }
 }

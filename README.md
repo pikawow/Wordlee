@@ -1,5 +1,8 @@
 This is a Wordle clone project.
 
+## 宗旨
+尊重 包容 友善
+
 ## Spec
 
 ### MVP
@@ -15,13 +18,14 @@ This is a Wordle clone project.
 ### Tasks 
 - [ ] layout (**@tiffany**)
 - [ ] 5x6 個方格子+灰綠黃 (**@michael**)
-- [ ] Wordle 演算法 (**@louis**)
+- [x] Wordle 演算法 (**@louis**)
 - [ ] 鍵盤 UI (**@shane**)
 - [ ] 鍵盤 event (**@debby**)
 - [ ] 建立題庫 (word list)
 - [ ] 答對視窗
 - [ ] how to play
 - [ ] setting page
+- [ ] 動畫 (**@louis**)
 
 Nice to have
 - 作為一個 user，如果輸入的單字正確，會跳出一個恭喜視窗，點擊上面的分享，可以複製這個結果，並以 emoji 呈現
